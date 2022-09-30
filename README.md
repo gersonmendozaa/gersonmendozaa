@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Gerson, I’m El Salvador and I'm Software Architect.
+- 👋 Hi, my name is Gerson, I’m from El Salvador and I'm Software Architect.
 - 👀 I’m interested in contributing my knowledge of .NET, architecture patterns and DevOps to the technology community.
 - 🌱 I’m currently learning about DevOps.
 - 📫 How to reach me: gersonmendoza97@icloud.com
